@@ -20,6 +20,6 @@ setup(
     author='Yash',
     author_email='yashgoyal0264@gmail.com',
     packages= find_packages(),
-    install_requires= get_requirements('requirement.txt')
+    install_requires= get_requirements('requirements.txt')
 
 )
